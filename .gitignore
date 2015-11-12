@@ -2,3 +2,5 @@ etc/
 bin/
 run/
 lib/
+node_modules/
+settings.json
